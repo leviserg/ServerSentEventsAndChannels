@@ -1,3 +1,10 @@
 <Solution>
+  <Folder Name="/Solution Items/" />
+  <Folder Name="/Solution Items/web-ui-client/">
+    <File Path="web-ui-client/index-target-user.html" />
+    <File Path="web-ui-client/index_simple.html" />
+  </Folder>
+  <Project Path="ReverseProxy/ReverseProxy.csproj" Id="bea469c2-6fbe-46da-9212-51528c20a737" />
+  <Project Path="WebApi_SSE.Tests/WebApi_SSE.Tests.csproj" Id="21426dd9-4108-4d03-814f-f4a16379a968" />
   <Project Path="WebApi_SSE/WebApi_SSE.csproj" />
 </Solution>
